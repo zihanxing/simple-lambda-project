@@ -1,0 +1,11 @@
+/Users/Zach/Desktop/simple-lambda-project/target/debug/deps/libtower_layer-57a6a5c3136c9e93.rmeta: /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs
+
+/Users/Zach/Desktop/simple-lambda-project/target/debug/deps/libtower_layer-57a6a5c3136c9e93.rlib: /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs
+
+/Users/Zach/Desktop/simple-lambda-project/target/debug/deps/tower_layer-57a6a5c3136c9e93.d: /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs
+
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs:

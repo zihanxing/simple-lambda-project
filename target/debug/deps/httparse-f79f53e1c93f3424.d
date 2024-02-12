@@ -1,0 +1,12 @@
+/Users/Zach/Desktop/simple-lambda-project/target/debug/deps/libhttparse-f79f53e1c93f3424.rmeta: /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/sse42.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/avx2.rs
+
+/Users/Zach/Desktop/simple-lambda-project/target/debug/deps/libhttparse-f79f53e1c93f3424.rlib: /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/sse42.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/avx2.rs
+
+/Users/Zach/Desktop/simple-lambda-project/target/debug/deps/httparse-f79f53e1c93f3424.d: /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/sse42.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/avx2.rs
+
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/sse42.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/avx2.rs:

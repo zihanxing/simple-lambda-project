@@ -1,0 +1,11 @@
+/Users/Zach/Desktop/simple-lambda-project/target/debug/deps/liblambda_runtime-aed8f280da980dd7.rmeta: /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/lib.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/deserializer.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/requests.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/streaming.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/types.rs
+
+/Users/Zach/Desktop/simple-lambda-project/target/debug/deps/liblambda_runtime-aed8f280da980dd7.rlib: /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/lib.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/deserializer.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/requests.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/streaming.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/types.rs
+
+/Users/Zach/Desktop/simple-lambda-project/target/debug/deps/lambda_runtime-aed8f280da980dd7.d: /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/lib.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/deserializer.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/requests.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/streaming.rs /Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/types.rs
+
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/lib.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/deserializer.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/requests.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/streaming.rs:
+/Users/Zach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime-0.9.1/src/types.rs:
